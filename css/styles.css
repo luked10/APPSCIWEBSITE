@@ -26,16 +26,12 @@
     background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 100%);
     color: #FF6836;
 }
-
-
-
 footer .row .col-lg-6 {
     color: #FF6836;
 }
-
-
-
-
 footer .row .col-lg-3 {
+    color: #FF6836;
+}
+.container div .text-center {
     color: #FF6836;
 }
