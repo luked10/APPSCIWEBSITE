@@ -35,3 +35,12 @@ footer .row .col-lg-3 {
 .container div .text-center {
     color: #FF6836;
 }
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler .navbar-toggler-icon {
+    background-color: #FF6836;
+}
+.overlay.overlay--extraDark .hero_title.overlay_content.overlay_content--center h1 {
+    height: 4in;
+    width: 13px;
+    line-height: 1.25in;
+    text-align: center;
+}
